@@ -7,7 +7,7 @@ public class HelloWorld {
 	
 	public static void main(String args[])
 	{
-		System.out.println("GIT 1 "+ new SimpleDateFormat("hh:mm:ss a").format(new Date()));
+		System.out.println("GIT 2 "+ new SimpleDateFormat("hh:mm:ss a").format(new Date()));
 		for(int i=1;i<=5;i++)
 		{
 			System.out.println(i);
